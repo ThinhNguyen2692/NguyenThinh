@@ -1,0 +1,412 @@
+body {
+    margin: 0;
+    font-family: 'Libre Baskerville', serif;
+    background: #fff;
+   
+}
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;   
+}
+
+.container {
+    width: 1170px;
+}
+
+/*header*/
+.top-header{
+    background: hsl(0deg 0% 10%);
+    color: #a98a51;
+    height: auto;
+    padding-top: 10px;
+
+}
+ .top-header a{
+    color: #a98a51;
+    text-decoration: none ;
+ }
+
+.TT2{
+    text-align: right;
+}
+.TT2 i:hover{
+    color: #f2ece1;
+}
+
+.item{
+   padding-right: 10px;
+}
+
+.item2{
+    margin-right: 5px;
+}
+#item3{
+    padding-bottom: 20px;
+    border-bottom: #252525 0.5px solid;
+}
+#temp11{
+    padding-top: 10px ;
+    padding-bottom: 20px;
+}
+.logo{
+    display: inline;
+    padding-right: 350px;
+
+}
+.navbar{
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.banner{
+    background-image: url("../image/hero-bg.jpg");
+}
+.item11 {
+    background: url("../image/hero-bg-06.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#temp11 a:hover{
+    color: #fff;
+    text-decoration: none ;
+
+}
+.top-header  a:hover{
+    text-decoration: underline;
+}
+/*banner*/
+#item5{
+   padding: 100px 0;
+    background-position:  center;
+    background-size: cover;
+    color: #fff;
+}
+#item5 h1{
+    font-size: 5em;
+}
+.btn{
+    background: #a98a51;
+    border-radius: 0%;   
+    color: #f2ece1;
+    padding: 20px 20px;
+}
+.btn:hover{
+    background: #191919;
+    color: #f2ece1; 
+}
+/*Main content*/
+.item6{
+
+    text-align: center;
+    padding-top: 100px;
+    background: #f9f9f9;
+    padding-bottom: 50px;
+}
+
+
+
+.temp span{
+    font-size: 27px;
+}
+.temp h5{
+    color: #a98a51;
+}
+.item7{
+    padding-top: 50px;
+    display: block;
+    text-align: center;
+}
+.item7 h2{
+   color:  #191919;
+}
+#temp2{
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    padding-bottom: 10px;
+    border-bottom: #a98a51 3px solid;
+
+}
+
+.item8{
+    color:#191919;
+   
+}
+.item8 .item8-temp3{
+    color: #191919;
+    padding: 30px 0;
+    text-align: center;
+}
+.item8 a{
+    color: #a98a51;
+    text-decoration: none ;
+}
+.item8 .item8-temp3:hover{
+    background:  #191919;
+    color: #f2ece1;
+}
+
+.item8 a:hover{
+    color:  #f2ece1;
+    text-decoration: none ;
+}
+
+/*We've helped over 3.000 Corporations & People*/
+.item9{
+    background: #f9f9f9;
+    color: #191919;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-bottom: 0;
+}
+.item10 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.temp3{
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    
+    border-bottom: #a98a51 3px solid;
+}
+
+.item14 i{
+    color: #a98a51;
+}
+.item14 p{
+    margin-right: 10px;
+    color: #616161;
+    line-height: 1.78;
+ 
+}
+.col-6 span{
+    background: #ece9e4;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 5px;
+}
+.item14 span a{
+    color: #a98a51;
+}
+.item14 span a:hover{
+    text-decoration: underline;
+    color: #191919;
+}
+/*CTA Title. Join our Mailing List*/
+.item11{
+    height: auto;
+    display: block;
+    color: #f2ece1;
+   
+    text-align: center;
+   padding: 50px 0;
+}
+
+.temp4{
+    border-radius: 30px;   
+    border-color: #a98a51;
+    background-color: transparent;
+    color: #a98a51;
+    padding: 15px 30px;
+}
+.temp4:hover{
+    background:#a98a51 ;
+    color: #f2ece1;
+}
+/*Aegis Attorneys*/
+.item12{
+    text-align: center;
+    padding: 50px 0;
+    background: #f9f9f9;
+    color: #191919;
+}
+#phu2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#phu{
+    padding-bottom: 50px;
+}
+.temp7{
+    width: auto;
+    display: block;
+    padding-top: 0;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 20px;
+    margin-right: auto;
+    background: #fff;
+}
+
+.temp7 a{
+    text-decoration: none;
+    color: #a98a51;
+}
+.temp7 a:hover{
+    text-decoration: underline;
+    color: #191919;
+}
+.temp5{
+ color: #969696;
+}
+
+.item13{
+    padding: 50px 0;
+
+    color: #191919;
+}
+.temp8{
+    text-align: center;
+}
+.item15{
+    color: #191919;
+    text-align: right;
+  
+}
+.temp15{
+    border: 0;
+    border-bottom: #dcdcdc 1px solid;
+    width: 200px;
+    outline:none;
+    
+}
+
+.phu3{
+    padding-bottom: 40px;
+}
+
+.item16{
+    text-align: left;
+    color: #191919;
+}
+
+.temp16{
+    padding-bottom: 30px;
+}
+.temp17{
+    width: 700px;
+    height: 150px;
+}
+.item17{
+    display: block;
+    text-align: center;
+}
+.item17 button{
+    background-color: #a98a51;
+    border-color: #a98a51;
+    color: #f2ece1;
+    border: none;
+    border-radius: 0;
+    padding: 10px 25px;
+    margin-top: 20px;
+}
+.item17 button:hover{
+    background: #6a6a6a;
+    color: #f2ece1;
+}
+
+/*footer*/
+.footer{
+    background: hsl(0deg 0% 10%);
+    color: #a98a51;
+    height: auto;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+
+.item18{
+       display: inline-block;        
+}
+
+#temp18{
+    color: #fff;
+}
+.temp19{
+    margin-top: 20px;
+    background-color: transparent;
+    border-radius: 0%;  
+    border: 1px solid #a98a51;
+    color: #a98a51;
+    padding: 5px 20px;
+}
+.temp19:hover{
+    border-color: #f2ece1;
+    color: #f2ece1; 
+}
+
+.item19 ul{
+    position: relative;
+    vertical-align: middle;
+}
+
+
+
+.item19 a{
+    display: inline-block;    
+    margin-bottom: 10px;
+    text-decoration: none ;
+    color: #a98a51;
+}
+.item19 a:hover{
+    text-decoration: underline;
+    color: #f2ece1; 
+}
+.item20{
+    color: #f2ece1;
+}
+
+.item20 h4{
+    color: #a98a51;
+}
+
+.item20 a{
+    text-decoration: none ;
+    color: #a98a51;
+}
+.item20 a:hover{
+    text-decoration: underline ;
+    color: #f2ece1;
+}
+
+.item20 .TT{
+    color: #a98a51;
+    margin-top: 10px;
+}
+.item21 input{
+    background: transparent;
+    padding: 5px 30px;
+    border-radius: 0%;
+    border: #a98a51 1px solid;
+}
+.item21 button{
+    background: transparent;
+    color: #a98a51;
+    border: #a98a51 1px solid;
+    padding: 5px 20px;
+}
+.item21 p{
+    color: #f2ece1;
+}
+.TT3{
+    color: #a98a51;
+}
+
+.TT3 i:hover{
+    color: #f2ece1;
+}
+.temp22{
+    border-top: solid 1px #252525;
+    text-align: center;
+}
+.temp22 p{
+    padding-top: 50px;
+    color: #f2ece1;
+}
+.temp22 a{
+    color: #a98a51;
+    text-decoration: none;
+}
